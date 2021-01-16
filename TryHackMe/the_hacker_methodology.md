@@ -22,8 +22,10 @@ What is it called when you use Google to look for specific vulnerabilities or to
 -------------------------------
 What does enumeration help to determine about the target?
 - Attack Surface
+
 Do some reconnaissance about the tool: Metasploit, what company developed it?
 - Rapid7
+
 What company developed the technology behind the tool Burp Suite?
 - Portswigger
 
@@ -36,6 +38,7 @@ What is one of the primary exploitation tools that pentester(s) use?
 -------------------------------
 In Windows what is usually the other target account besides Administrator?
 - System
+
 What thing related to SSH could allow you to login to another machine (even without knowing the username or password)?
 - Keys
 
@@ -47,5 +50,6 @@ No Answer needed!!!
 -------------------------------
 What would be the type of reporting that involves a full documentation of all findings within a formal document?
 - Full Formal Report
+
 What is the other thing that a pentester should provide in a report beyond: the finding name, the finding description, the finding criticality
 - Remediation Recommendation
