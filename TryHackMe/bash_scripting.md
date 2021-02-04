@@ -9,7 +9,7 @@ No Answer Needed!!!
 ### Task 2: Our first simple bash scripts
 -------------------------------
 What piece of code can we insert at the start of a line to comment out our code?
-- #
+- *#*
 > #! /bin/bash
 
 What will the following script output to the screen, echo “BishBashBosh”
