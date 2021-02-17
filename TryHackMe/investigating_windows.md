@@ -1,6 +1,6 @@
 # Investigating Windows
 
-Lab Link - <https://tryhackme.com/room/investigatingwindows>
+Lab Link - <https://tryhackme.com/room/investigatingwindows><br>
 Detailed Walkthrough - <https://markonsecurity.medium.com/investigating-windows-tryhackme-10e187badedb>
 
 ### Task 1: Investigating Windows
