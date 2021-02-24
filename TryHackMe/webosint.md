@@ -22,7 +22,7 @@ DomainTools: <https://whois.domaintools.com><br>
 
 **Q:** What is listed for the name of the registrant?<br>
 **A:** redacted for privacy<br>
-Check **Raw Registrar RDAP Response** for the information
+**Hints:** Check **Raw Registrar RDAP Response** for the information
 
 **Q:** What country is listed for the registrant?What country is listed for the registrant?<br>
 **A:** Panama
@@ -81,8 +81,8 @@ Wayback Machine: <https://archive.org/>
 **Q:** Using your search engine skills, what was the name of the company that was responsible for the original version of the site?<br>
 **A:** SegaSoft
 
-What does the first header on the site on the last capture of 2010 say?<br>
-- Heat.net – Heating and Cooling
+**Q:** What does the first header on the site on the last capture of 2010 say?<br>
+**A:** Heat.net – Heating and Cooling
 
 ### Task 6: Taking A Peek Under The Hood Of A Website
 -------------------------------
@@ -104,7 +104,7 @@ What does the first header on the site on the last capture of 2010 say?<br>
 **Hints:** "UA-" for Google Adsence ID
 
 **Q:** Is the the Google Analytics code in use on another website? Yay or nay<br>
-**A:** Nay
+**A:** Nay<br>
 **Resources:** <https://www.nerdydata.com>
 
 **Q:** Does the link to this website have any obvious affiliate codes embedded with it? Yay or Nay<br>
