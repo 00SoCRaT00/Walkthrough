@@ -7,7 +7,7 @@ No Answer Needed!!!
 
 ### Task 2: Whois Registration
 -------------------------------
-**Resources**:
+**Resources**:<br>
 ICANN Lookup: <https://lookup.icann.org/lookup><br>
 DomainTools: <https://whois.domaintools.com><br>
 
@@ -56,7 +56,7 @@ Wayback Machine: <https://archive.org/>
 **Hints:** Check "Reverse IP Lookup"
 
 **Q:** How many times has the IP address changed in the history of the domain?<br>
-**A:** 4
+**A:** 4<br>
 **Hints:** Check "IP History"
 
 ### Task 5: Taking Off The Training Wheels
