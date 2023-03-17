@@ -20,10 +20,11 @@ What IP does the system connect to when it first starts?
 What two accounts had administrative privileges (other than the Administrator user)?
 - Guest Jenny
 
-Whats the name of the scheduled task that is malicous.
-- Clean file system
+#⏱️ Task 1 :  Whats the version and year of the windows machine?
 
-What file was the task trying to run daily?
+#1️⃣ Windows Server 2016
+
+⏱️ Task 2 : What file was the task trying to run daily?
 - nc.ps1
 
 What port did this file listen locally for?
